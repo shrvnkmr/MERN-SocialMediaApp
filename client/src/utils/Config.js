@@ -1,1 +1,1 @@
-export const baseURL = "http://chirpup-api.vercel.app";
+export const baseURL = "https://chirpup-api.vercel.app";
